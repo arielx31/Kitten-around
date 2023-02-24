@@ -6,15 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start Menu.unity
-    guid: 8c8a7129b1818584e889923ed9f3cdf4
-  - enabled: 1
-    path: Assets/Scenes/SampleScene-cinemachine.unity
-    guid: 30c741df9e65ccd41ae83b589ce8185a
-  - enabled: 0
-    path: Assets/Scenes/Game Over.unity
-    guid: 0ddbbd97fd1982e4c9a74344675e47a9
-  - enabled: 0
-    path: Assets/Scenes/do we need this.unity
+    path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
