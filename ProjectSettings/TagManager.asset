@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - kibble
+  - Cat
+  - LR1
+  - RR1
+  - Ground
+  - EnemyOne
   layers:
   - Default
   - TransparentFX
@@ -12,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
