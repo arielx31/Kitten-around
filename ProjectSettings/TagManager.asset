@@ -44,6 +44,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: KillEnemy
+    uniqueID: 4155010025
+    locked: 0
   - name: Background Layer 1
     uniqueID: 3554246685
     locked: 0
