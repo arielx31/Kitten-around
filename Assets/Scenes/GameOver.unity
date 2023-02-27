@@ -283,9 +283,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'KITTEN
-
-    AROUND'
+  m_text: "GAME \nOVER"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b9b3e56e811d4ae4e8bba3884ae5b675, type: 2}
   m_sharedMaterial: {fileID: 2658184402744897958, guid: b9b3e56e811d4ae4e8bba3884ae5b675, type: 2}
@@ -531,7 +529,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1181700567}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: StartMenu, Assembly-CSharp
         m_MethodName: StartGame
         m_Mode: 1
@@ -590,7 +588,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1181700562}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9facc0c8e89a4f046b9214df103cd86a, type: 3}
+  m_Script: {fileID: 11500000, guid: ebe164a5514905f4d8a3a1304689bf93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1291640236
@@ -2534,7 +2532,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: PLAY
+  m_text: QUIT
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b9b3e56e811d4ae4e8bba3884ae5b675, type: 2}
   m_sharedMaterial: {fileID: 2658184402744897958, guid: b9b3e56e811d4ae4e8bba3884ae5b675, type: 2}

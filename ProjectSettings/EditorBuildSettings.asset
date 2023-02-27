@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartScreen.unity
     guid: b67dafc6cf8d73f48bf48ef76806beb1
+  - enabled: 1
+    path: Assets/Scenes/SampleScene-cinemachine.unity
+    guid: 30c741df9e65ccd41ae83b589ce8185a
+  - enabled: 0
+    path: Assets/Scenes/EndScreen.unity
+    guid: b4f101364847e2549bdc7572b820fce5
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b129aa1e840f12e40bd1a3a82f5540ab
   m_configObjects: {}
